@@ -18,3 +18,4 @@ The purpose of this connector is to simplify and streamline the way you access E
 ## How to use
 - [Sign up](https://ide.electricimp.com/login) for an Electric Imp account.
 - Set the Electric Imp API key retrieved from the developers Build APIs Key [page](https://ide.electricimp.com/ide/) in the config.js file.
+- In order to use the features of the connector, you need to import the main main objects model.js and device.js.
